@@ -1,6 +1,6 @@
 'use strict';
 
-module.exports.hello = async (event) => {
+module.exports.getProducts = async (event) => {
 
 const products = [  {
   "count": 1,
